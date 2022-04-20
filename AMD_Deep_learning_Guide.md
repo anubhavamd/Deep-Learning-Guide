@@ -1,19 +1,3 @@
-![AMDh_mb_8bit](media/41501009b8bbe5f58f5bd3154861af00.png)
-
-| AMD Deep Learning Guide  |
-|--------------------------|
-
-|   | Publication \# | 1.0          | Revision: | 0206 |   |   |   |   |
-|---|----------------|--------------|-----------|------|---|---|---|---|
-|   | Issue Date:    | 5 March 2022 |           |      |   |   |   |   |
-|   |                |              |           |      |   |   |   |   |
-
-© 2021-22 Advanced Micro Devices, Inc. All Rights Reserved.
-
-[This page left blank intentionally]
-
-Table of Contents
-
 [*Table of Contents*](#_Toc90492738)
 
 [*Chapter 1* *Introduction to Machine Learning and Deep Learning*](#introduction-to-machine-learning-and-deep-learning)
@@ -75,8 +59,6 @@ Table of Contents
 [*5.1.4* *Tuning MIGraphX*](#_Toc90492767)
 
 [*Chapter 6* *References*](#references)
-
-d
 
 # Introduction to Machine Learning and Deep Learning
 
